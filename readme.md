@@ -1,4 +1,4 @@
-# Nome do módulo #
+# Nome do mÃ³dulo #
 
 ## Docentes ##
 
